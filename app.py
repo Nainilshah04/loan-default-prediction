@@ -11,11 +11,23 @@ st.set_page_config(
 )
 
 # Load model and preprocessing tools
+import os
+
 @st.cache_resource
 def load_model():
-    model = joblib.load('models/best_loan_model.pkl')
-    scaler = joblib.load('models/scaler.pkl')
-    feature_names = joblib.load('models/feature_names.pkl')
+    # Get the directory where app.py is located
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Build full paths
+    model_path = os.path.join(base_dir, 'models', 'best_loan_model.pkl')
+    scaler_path = os.path.join(base_dir, 'models', 'scaler.pkl')
+    features_path = os.path.join(base_dir, 'models', 'feature_names.pkl')
+    
+    # Load
+    model = joblib.load(model_path)
+    scaler = joblib.load(scaler_path)
+    feature_names = joblib.load(features_path)
+    
     return model, scaler, feature_names
 
 try:
