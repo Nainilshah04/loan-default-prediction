@@ -5,7 +5,7 @@ __pycache__/
 .venv/
 venv/
 
-# Data files (large files)
+# Data files (large CSV files only)
 *.csv
 *.xlsx
 *.db
@@ -18,6 +18,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Models (optional - if too large)
-*.pkl
-*.joblib
+# DON'T ignore model files - needed for Streamlit deployment!
+# *.pkl
+# *.joblib
