@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data files (large files)
+*.csv
+*.xlsx
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Models (optional - if too large)
+*.pkl
+*.joblib
