@@ -32,6 +32,27 @@ Financial institutions lose significant revenue due to loan defaults. This proje
 
 ![Dashboard](images/dashboard_clean.png)
 
+---
+
+## 🌐 Live Web Application
+
+### 👉 **[Try Live Demo - Loan Predictor App](https://loan-predictor-nainil.streamlit.app/)**
+
+**Real-time ML-powered loan approval predictions!**
+
+🎯 **No installation required - runs directly in browser**
+
+**App Features:**
+- ⚡ Instant predictions (Approve/Reject)
+- 📊 Confidence scores with probability
+- 🎯 Risk assessment levels
+- 💡 Key decision factors
+- 📋 Actionable recommendations
+
+**Try it yourself:** Enter customer details and see how our Random Forest model (81% accuracy) predicts loan outcomes in real-time!
+
+---
+
 *Interactive dashboard showing key risk metrics and approval patterns*
 
 ---
