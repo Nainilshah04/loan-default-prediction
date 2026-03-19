@@ -19,7 +19,7 @@ Financial institutions lose significant revenue due to loan defaults. This proje
 
 **One-Page Business Impact Report:**
 
-👉 **[View Executive Summary](reports/EXECUTIVE_SUMMARY.md)**
+👉 **[Download Executive Summary (PDF)](reports/Business_Executive_summary.pdf)**
 
 **Quick Overview:**
 - 📊 Problem statement & business context
