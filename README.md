@@ -15,6 +15,23 @@ Financial institutions lose significant revenue due to loan defaults. This proje
 - Reduce default rates by 25-30%
 - Save estimated Rs 5-7 Lakhs annually
 
+## 📄 Executive Summary
+
+**One-Page Business Impact Report:**
+
+👉 **[View Executive Summary](reports/EXECUTIVE_SUMMARY.md)**
+
+**Quick Overview:**
+- 📊 Problem statement & business context
+- 🔍 4 key findings from data analysis
+- 💼 Actionable recommendations for stakeholders
+- 💰 Financial impact: Estimated savings of Rs 5-7 Lakhs annually
+
+**Perfect for:**
+- Sharing with non-technical stakeholders
+- Interview presentations
+- Quick project overview for recruiters
+
 ---
 
 ## 📈 Key Results
