@@ -53,7 +53,7 @@ Financial institutions lose significant revenue due to loan defaults. This proje
 
 ## 🌐 Live Web Application
 
-### 👉 **[Try Live Demo - Loan Predictor App](https://loan-predictor-nainil.streamlit.app/)**
+### 👉 **[Try Live Demo - Loan Predictor App](https://loan-default-prediction-platform.streamlit.app/)**
 
 **Real-time ML-powered loan approval predictions!**
 
